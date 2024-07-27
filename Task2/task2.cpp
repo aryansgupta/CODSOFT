@@ -16,13 +16,13 @@ int main(){
     cin >> num2;
 
     if(symbol == "+"){
-        cout << "The amswer is: " << num1 + num2 << endl;
+        cout << "The answer is: " << num1 + num2 << endl;
     } else{
         if(symbol == "-"){
             cout << "The answer is: " << num1 - num2 << endl;
         } else{
             if (symbol == "*") {
-                cout << "The amswer is: " << num1 * num2 << endl;
+                cout << "The answer is: " << num1 * num2 << endl;
             } else{
                 if(symbol == "/"){
                 cout << "The answer is: " << num1 / num2 << endl;
