@@ -6,11 +6,11 @@ void userboardview(vector<string> arr)
 {
     cout << endl;
     cout << " " << arr[1] << "  |  " << arr[2] << "  |  " << arr[3] << " " << endl;
-    cout << "____|____|____" << endl;
-    cout << "    |    |    " << endl;
+    cout << "____|_____|____" << endl;
+    cout << "    |     |    " << endl;
     cout << " " << arr[4] << "  |  " << arr[5] << "  |  " << arr[6] << " " << endl;
-    cout << "____|____|____" << endl;
-    cout << "    |    |    " << endl;
+    cout << "____|_____|____" << endl;
+    cout << "    |     |    " << endl;
     cout << " " << arr[7] << "  |  " << arr[8] << "  |  " << arr[9] << " " << endl;
     cout << endl;
 }
